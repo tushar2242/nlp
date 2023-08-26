@@ -1,0 +1,8 @@
+How to Spacy download en_core_web_lg manually??
+
+
+
+If you install spaCy from source or with pip for platforms where there are notbinary wheels on PyPI, you may need to use build constraints if any package inyour environment requires an older version of numpy
+
+
+
